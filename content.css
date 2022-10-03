@@ -1,14 +1,14 @@
 .page {
-  width:
-  height:
+  font-family: 'Source Code Pro', monospace;
+  width: 350px;
+  height: 500px;
 }
 
 #article_title {
-
+  font-size: 30px;
 }
 
 #intro {
-
 }
 
 .question{
