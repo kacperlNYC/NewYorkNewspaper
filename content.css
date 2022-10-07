@@ -1,24 +1,42 @@
 .page {
-  font-family: 'Source Code Pro', monospace;
   width: 350px;
-  height: 500px;
+  background-color: #D3D0CB;
+  padding: 15px;
 }
 
 #article_title {
-  font-size: 30px;
+  font-size: 35px;
+  font-family: 'Anton', sans-serif;
+  letter-spacing: 3px;
+  color: #461220;
+  line-height: 0px;
 }
 
 #intro {
+  font-family: 'Oswald', sans-serif;
+  line-height: 40px;
+  color: #8c2f39;
 }
 
 .question{
-
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  font-weight: bolder;
+  color: #4C5760;
+  padding: 0px;
 }
 
 .answer{
-
+  font-family: 'Raleway', sans-serif;
+  color: #4C5760;
 }
 
 #block_quote {
-
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  color: #8c2f39;
+  border-left: solid 1px #4C5760;
+  box-shadow: 10px 5px 5px dimgray;
+  margin-left: 75px;
+  padding: 5px;
 }
